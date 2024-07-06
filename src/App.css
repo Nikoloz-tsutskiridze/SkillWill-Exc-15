@@ -1,0 +1,21 @@
+body.light {
+  background-color: #ececec;
+  color: #282c34;
+}
+
+body.dark {
+  background-color: #282c34;
+  color: #ececec;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
